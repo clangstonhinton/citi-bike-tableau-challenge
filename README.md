@@ -1,5 +1,5 @@
 # citi-bike-tableau-challenge
-Create Tableau visualizations of the Citi Bike ride sharing data.
+Create data visualizations of the Citi Bike ride sharing program in Tableau.
 
 <img width="1152" alt="Citi Bike Copy for Readme Size" src="https://user-images.githubusercontent.com/44728723/232316050-b5518834-3aa5-41d2-bbcc-b341cb012246.png">
 
