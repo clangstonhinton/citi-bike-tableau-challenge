@@ -31,3 +31,22 @@ For this analysis, 60 million records were systematically sampled across the two
 
 ## Tableau Visualizations
 
+<img width="584" alt="Screen Shot 2023-04-16 at 10 58 27 AM" src="https://user-images.githubusercontent.com/44728723/232321699-facd707e-f8c8-42d5-bd93-a35843dda07f.png">
+
+
+
+<img width="586" alt="Screen Shot 2023-04-16 at 10 58 34 AM" src="https://user-images.githubusercontent.com/44728723/232321713-1bdc4cd7-5ff0-4171-9353-405ae4be6f5a.png">
+
+
+
+<img width="609" alt="Screen Shot 2023-04-16 at 10 58 42 AM" src="https://user-images.githubusercontent.com/44728723/232321717-d7b11cb0-e2d6-4c88-abb2-3b9d499e7cf1.png">
+
+
+<img width="597" alt="Screen Shot 2023-04-16 at 10 58 52 AM" src="https://user-images.githubusercontent.com/44728723/232321724-5d58d5e7-2baa-42e4-862c-2a8f06cf2434.png">
+
+
+
+
+
+
+
