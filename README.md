@@ -31,10 +31,12 @@ For this analysis, 60 million records were systematically sampled across the two
 
 ## Tableau Visualizations
 
+### Ridership Growth
+Total Rides increased by 13% (+3.7M) in the 2nd Year for a total of 32MM rides.  For the 2-year period, a total of 61M rides were measured.
 <img width="584" alt="Screen Shot 2023-04-16 at 10 58 27 AM" src="https://user-images.githubusercontent.com/44728723/232321699-facd707e-f8c8-42d5-bd93-a35843dda07f.png">
 
 
-
+### Seasonality
 <img width="586" alt="Screen Shot 2023-04-16 at 10 58 34 AM" src="https://user-images.githubusercontent.com/44728723/232321713-1bdc4cd7-5ff0-4171-9353-405ae4be6f5a.png">
 
 
