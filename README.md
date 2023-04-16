@@ -5,7 +5,7 @@ Create data visualizations of the Citi Bike ride sharing program in Tableau.
 
 
 ## Background
-Since 2013, the Citi Bike ride-sharing program has grown to become largest of its kind in the world with an average of 2.7 million rides per month. The program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike website. 
+Since 2013, the Citi Bike ride-sharing program has grown to become largest of its kind in the world with an average of 2.7 million rides per month. The program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike website [here](https://s3.amazonaws.com/tripdata/index.html). 
 
 ## Data Description
 For this analysis, 60 million records were systematically sampled across the two year period ending March 31, 2023. The sampled dataset can be found in the XX data folder above.  The data contain the following columns:
