@@ -58,7 +58,7 @@ Peak riding hours are similar in the warmer months and the cooler months.  Howev
 ### Member vs Casual Riders
 The percentage of Member riders increased by 5 percentage point in Year 2 or by 1.8M members.
 
-<img width="1091" alt="Screen Shot 2023-04-16 at 5 21 05 PM" src="https://user-images.githubusercontent.com/44728723/232343116-e5a204db-98bf-4eda-ad8e-3f988acb17c1.png">
+<img width="605" alt="Screen Shot 2023-04-16 at 5 27 12 PM" src="https://user-images.githubusercontent.com/44728723/232343398-277586ca-0f8c-48e9-8d5f-68b0185797f3.png">
 
 
 
